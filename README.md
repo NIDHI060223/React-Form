@@ -1,8 +1,8 @@
 # React Form Application
-  A simple React application demonstrating a form submission and data display feature using React Router.
+ - A simple React application demonstrating a form submission and data display feature using React Router.
 ---
 ## Introduction
-  This project is a simple React-based CRUD application that allows users to fill out a form, validate the data, and display the submitted data on another page. It uses React Router for 
+ - This project is a simple React-based CRUD application that allows users to fill out a form, validate the data, and display the submitted data on another page. It uses React Router for 
   navigation and state management with useState.
 ---
 ## Features
